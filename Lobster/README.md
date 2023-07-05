@@ -3,7 +3,9 @@
 # ɦʊ🦞
 This is the language of lobsters.
 
-**NOTE: "🦞" is used to signify the urethral fricative because this sound isn't covered by the IPA.**
+## What You Need to Know
+* Lobsters pee out of their eyes to communicate. They also release pheromones when doing so.
+* "🦞" is used to signify the urethral fricative because this sound isn't covered by the IPA.
 
 ## Phonology
 |                | Velar        | Uvular       | Pharyngeal   | Glottal      | Urethral     |
@@ -16,13 +18,13 @@ a, ə, o, ʊ, ɔ
 
 ## Morphology
 
-*Sample conjugations for "to swim", /χah/*
+*Sample conjugations for "to swim", /χah/* 
 |                |              | Single       | Paucal       | Plural       |
 | :------------- | :----------: | :----------: | :----------: | :----------: |
 | 1st Person     | Inclusive    | χah          | χəh          | χoh          |
 |                | Exclusive    |              | χəɦ          | χoɦ          |
 | 2nd Person     |              | χaq          | χəq          | χoq          |
-| 3rd Person     |              | χa🦞         | χə🦞         | χo🦞         |
+| 3rd Person     |              | χa🦞         | χə🦞         | χo🦞        |
 
 <br/>
 
