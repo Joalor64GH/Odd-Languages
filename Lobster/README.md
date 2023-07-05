@@ -27,14 +27,14 @@ a, ə, o, ʊ, ɔ
 <br/>
 
 *Sample declensions for "ocean", /hɔqa🦞/*
-|                | Single       | Paucal       | Plural       |
-| :------------- | :----------: | :----------: | :----------: |
-| Nominative     | Inclusive    | χah          | χəh          |
-| Accusative     | Exclusive    |              | χəɦ          |
-| Inessive       |              | χaq          | χəq          |
-| 3rd Person     |              | χa           | χə           |
-| 3rd Person     |              | χa           | χə           |
-| 3rd Person     |              | χa           | χə           |
-| 3rd Person     |              | χa           | χə           |
+|                        | Single       | Paucal       | Plural       |
+| :-------------         | :----------: | :----------: | :----------: |
+| Nominative (citrus)    | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
+| Accusative (mint)      | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
+| Inessive (regular)     | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
+| Elative  (lavender)    | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
+| Illative (vanilla)     | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
+| Adessive (fecal)       | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
+| Ablative (floral)      | hɔqa🦞       | hɔqə🦞       | hɔqo🦞      |
 
 </div>
